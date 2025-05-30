@@ -1,0 +1,7 @@
+Groceries;Milk and Eggs;12.50;2025-05-01
+Utilities;Electricity Bill;85.00;2025-05-02
+Entertainment;Movie Tickets;30.00;2025-05-03
+Groceries;Bread and Butter;8.25;2025-05-04
+Medical;Prescription;45.10;2025-05-05
+Utilities;Water Bill;40.00;2025-05-06
+Entertainment;Concert Ticket;75.00;2025-05-07
